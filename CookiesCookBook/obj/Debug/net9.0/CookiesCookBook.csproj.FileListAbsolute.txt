@@ -1,0 +1,15 @@
+D:\source\repos\CookiesCookBook\CookiesCookBook\obj\Debug\net9.0\CookiesCookBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\CookiesCookBook\CookiesCookBook\obj\Debug\net9.0\CookiesCookBook.AssemblyInfoInputs.cache
+D:\source\repos\CookiesCookBook\CookiesCookBook\obj\Debug\net9.0\CookiesCookBook.AssemblyInfo.cs
+D:\source\repos\CookiesCookBook\CookiesCookBook\obj\Debug\net9.0\CookiesCookBook.csproj.CoreCompileInputs.cache
+D:\source\repos\CookiesCookBook\CookiesCookBook\obj\Debug\net9.0\CookiesCookBook.sourcelink.json
+D:\source\repos\CookiesCookBook\CookiesCookBook\bin\Debug\net9.0\CookiesCookBook.exe
+D:\source\repos\CookiesCookBook\CookiesCookBook\bin\Debug\net9.0\CookiesCookBook.deps.json
+D:\source\repos\CookiesCookBook\CookiesCookBook\bin\Debug\net9.0\CookiesCookBook.runtimeconfig.json
+D:\source\repos\CookiesCookBook\CookiesCookBook\bin\Debug\net9.0\CookiesCookBook.dll
+D:\source\repos\CookiesCookBook\CookiesCookBook\bin\Debug\net9.0\CookiesCookBook.pdb
+D:\source\repos\CookiesCookBook\CookiesCookBook\obj\Debug\net9.0\CookiesCookBook.dll
+D:\source\repos\CookiesCookBook\CookiesCookBook\obj\Debug\net9.0\refint\CookiesCookBook.dll
+D:\source\repos\CookiesCookBook\CookiesCookBook\obj\Debug\net9.0\CookiesCookBook.pdb
+D:\source\repos\CookiesCookBook\CookiesCookBook\obj\Debug\net9.0\CookiesCookBook.genruntimeconfig.cache
+D:\source\repos\CookiesCookBook\CookiesCookBook\obj\Debug\net9.0\ref\CookiesCookBook.dll
