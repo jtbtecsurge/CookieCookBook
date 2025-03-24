@@ -1,8 +1,7 @@
-﻿namespace CookiesCookBook.Recipes.Ingredients
+﻿namespace CookiesCookBook.Recipes.Ingredients;
+
+public abstract class Spices : Ingredient
 {
-    public abstract class Spices : Ingredient
-    {
-        public override string PreaparationInstructions =>
-            $"Take half a teaspon. {base.PreaparationInstructions}";
-    }
+    public override string PreaparationInstructions =>
+        $"Take half a teaspon. {base.PreaparationInstructions}";
 }

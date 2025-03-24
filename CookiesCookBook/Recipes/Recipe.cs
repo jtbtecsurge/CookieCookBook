@@ -1,25 +1,29 @@
 ﻿using CookiesCookBook.Recipes.Ingredients;
 
-namespace CookiesCookBook.Recipes
+namespace CookiesCookBook.Recipes;
+
+public class Recipe
 {
-    public class Recipe
+    public IEnumerable<Ingredient> Ingredients { get; }
+
+    public Recipe(List<Ingredient> ingredients)
     {
-        public IEnumerable<Ingredient> Ingredients { get; }
+        Ingredients = ingredients;
+    }
 
-        public Recipe(List<Ingredient> ingredients)
+    public Recipe(IEnumerable<Ingredient> ingredients)
+    {
+        Ingredients = ingredients;
+    }
+
+    public override string ToString()
+    {
+        var steps = new List<string>();
+        foreach(var ingredient in Ingredients)
         {
-            Ingredients = ingredients;
+            steps.Add($"{ingredient.Name}. {ingredient.PreaparationInstructions}");
         }
 
-        public override string ToString()
-        {
-            var steps = new List<string>();
-            foreach(var ingredient in Ingredients)
-            {
-                steps.Add($"{ingredient.Name}. {ingredient.PreaparationInstructions}");
-            }
-
-            return string.Join(Environment.NewLine, steps);
-        }
+        return string.Join(Environment.NewLine, steps);
     }
 }
